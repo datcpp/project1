@@ -4,18 +4,22 @@ eProject: Website Plamt
 
 
 Mentor: 
-Nguyễn Tuân
+Ngo Van Phat
 
 
 
 Member:
 
-Pham Dac Dy
+Ngo Dinh Dat
 
-Pham Hoang Gia Hung
+Phung Thu Trang
 
-Nguyen Van Tung
+Vu Thi Quynh Trang
 
-Nguyen Duy Hoang
+Tran Ha Trang
 
-Vuong Hoang Son
+Pham Tien Dat
+
+Nguyen Minh Truc
+
+Vu Quynh Trang
